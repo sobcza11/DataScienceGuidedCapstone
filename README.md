@@ -1,7 +1,6 @@
 # DataScienceGuidedCapstone
 
-Hello students!
-**Welcome to the Data Science Guided Capstone!**
+**Welcome to my Data Science Guided Capstone!**
 
 **Start by forking** this repository to your personal GitHub account and cloning the fork to your local machine. 
 
